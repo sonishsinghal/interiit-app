@@ -1,7 +1,7 @@
 ## **Solar X-ray Monitor**
 
 
-## Deployed at : https://isro-frontend.herokuapp.com/
+## Deployed at :https://irso-frontend.herokuapp.com
 
 ## Installation
 
